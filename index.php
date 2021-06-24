@@ -39,7 +39,8 @@ $carousel["info"] .= <<<HTML
                         <div>
                                 <h3>The boring stuff!</h3>
                                 <p>This website is a very basic PHP single page application</p>
-                                <p>The unlicense(d) source code for this website can be found at <a href="https://github.com/anarchistdevop/single-page-photography-portfolio">https://github.com/anarchistdevop/single-page-photography-portfolio</a></p>
+                                <p>The <a href="https://unlicense.org/">unlicense(d)</a> source code for this website can be found at <a href="https://github.com/anarchistdevop/single-page-photography-portfolio">https://github.com/anarchistdevop/single-page-photography-portfolio</a></p>
+                    </div>
                     </div>
                 </div>
         </div>
